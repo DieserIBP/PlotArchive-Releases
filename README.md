@@ -26,6 +26,7 @@ SVG · DXF · JPG · PNG · GIF · WebP · BMP · TIFF · CWPRJ
 - Volltextsuche über Dateiname, Tags, Notizen und Projekte
 - Standardprogramm pro Dateityp hinterlegen
 - ZIP-Backup der Datenbank
+- Optional auch Backup der Originaldateien möglich
 - Automatische Updates
 
 ## Systemvoraussetzungen
